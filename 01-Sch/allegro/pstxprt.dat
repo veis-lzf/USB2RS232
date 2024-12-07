@@ -1,0 +1,250 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Dec-08-2024 at 02:04:04 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='USB2RS232-BOARD';
+ POST_TIME='Mar  9 2022 22:03:45';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1001 'CAP NP_C0402_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS1615@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins1615@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins1615@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1002 'CAP NP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS1643@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins1643@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins1643@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1003 'CAP NP_C0402_1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS1245@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins1245@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins1245@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1004 'CAP NP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS1309@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins1309@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins1309@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1005 'CAP NP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS321@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins321@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins321@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1006 'CAP NP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS408@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins408@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins408@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1007 'CAP NP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS2094@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins2094@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins2094@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1008 'CAP NP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS3233@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins3233@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins3233@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1009 'CAP NP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS1765@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins1765@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins1765@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1010 'CAP NP_C0402_0.1UF/25V':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS2520@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins2520@my_lib.\cap np.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins2520@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1001 'CON4_SIP-4_CON4':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS5156@MY_LIB.CON4.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins5156@my_lib.\con4.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins5156@my_lib.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1001 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS743@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins743@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins743@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1002 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS882@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins882@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins882@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1003 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS5271@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins5271@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins5271@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1004 'R_R0402_10K/NC':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS3480@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins3480@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins3480@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1005 'R_R0402_100R/NC':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS3713@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins3713@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins3713@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1006 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS3436@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins3436@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins3436@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1007 'R_R0402_100R/NC':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS3755@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins3755@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins3755@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1008 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS6144@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins6144@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins6144@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1009 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS6176@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins6176@my_lib.\r.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins6176@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1001 'XC6228D332VR-G_SOT23-5_XC6228D332VR-G':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS464@MY_LIB.XC6228D332VR-G.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins464@my_lib.\xc6228d332vr-g.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins464@my_lib.\xc6228d332vr-g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1002 'CH340N_SOIC-8_CH340N':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS214@MY_LIB.CH340N.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins214@my_lib.\ch340n.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins214@my_lib.\ch340n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1003 'SP3232EEY_TSSOP16_SP3232EEY':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS143@MY_LIB.SP3232EEY.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins143@my_lib.\sp3232eey.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins143@my_lib.\sp3232eey.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1001 'USB_A_USB-A-DIP_USB_A':;
+
+SECTION_NUMBER 1
+ '@USB2RS232-BOARD.SCHEMATIC1(SCH_1):INS543@MY_LIB.USB_A.NORMAL(CHIPS)':
+ C_PATH='@\usb2rs232-board\.schematic1(sch_1):ins543@my_lib.\usb_a.normal\(chips)',
+ P_PATH='@\usb2rs232-board\.schematic1(sch_1):page1_ins543@my_lib.\usb_a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
